@@ -1,0 +1,70 @@
+Package: openssh
+Name: OpenSSH
+Version: 7.9p1-3
+Architecture: iphoneos-arm
+Depiction: http://cydia.saurik.com/info/openssh/
+Description: secure remote access between machines
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Section: Networking
+Filename: ./8.0/openssh_7.9p1-3_iphoneos-arm.deb
+Size: 612852
+MD5sum: 6ff3a2ff19b7d26c781347b8b8609140
+Depends: libssl1.0
+
+Package: rsync
+Name: rsync
+Version: 3.1.3-2
+Architecture: iphoneos-arm
+Description: nope
+Homepage: http://www.samba.org/rsync/
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Section: Networking
+Filename: ./8.0/rsync_3.1.3-2_iphoneos-arm.deb
+Size: 204536
+MD5sum: b2dd5ce3b38d3dda17367f88d7e37b2d
+
+Package: socat
+Name: SOcket CAT
+Version: 1.7.3.2-2
+Architecture: iphoneos-arm
+Description: nope
+Homepage: http://www.dest-unreach.org/socat/
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Section: Networking
+Filename: ./8.0/socat_1.7.3.2-2_iphoneos-arm.deb
+Size: 118284
+MD5sum: 244c10d5d8dbac5f0a40baa6e8676c05
+Depends: libssl1.0, readline
+
+Package: sudo
+Name: Sudo
+Version: 1.8.27-3
+Architecture: iphoneos-arm
+Description: nope
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Section: Administration
+Filename: ./8.0/sudo_1.8.27-3_iphoneos-arm.deb
+Size: 271242
+MD5sum: fccf9e2b36bdd20122d49e303f8c98f9
+
+Package: unzip
+Name: unzip
+Version: 6.0+deb9u1-1
+Architecture: iphoneos-arm
+Description: nope
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Section: Archiving
+Filename: ./8.0/unzip_6.0+deb9u1-1_iphoneos-arm.deb
+Size: 90196
+MD5sum: 75f0c28bdfd5dd04c1f5d48ba9f8860f
+
+Package: zip
+Name: zip
+Version: 2.32-1
+Architecture: iphoneos-arm
+Description: nope
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Section: Archiving
+Filename: ./8.0/zip_2.32-1_iphoneos-arm.deb
+Size: 52214
+MD5sum: b1cef31bfb417f23e93861159176af0b
